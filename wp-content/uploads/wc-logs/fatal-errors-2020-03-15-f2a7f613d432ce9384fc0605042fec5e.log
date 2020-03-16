@@ -1,0 +1,8 @@
+2020-03-15T06:55:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\SOWFTWER\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-03-15T07:56:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\SOWFTWER\xampp\htdocs\wordpress\wp-content\plugins\wp-mail-smtp\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 553
+
+2020-03-15T07:57:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\SOWFTWER\xampp\htdocs\wordpress\wp-content\plugins\wp-mail-smtp\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 553
+
+2020-03-15T07:59:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\SOWFTWER\xampp\htdocs\wordpress\wp-content\plugins\wp-mail-smtp\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 553
+
